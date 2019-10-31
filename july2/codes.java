@@ -4,6 +4,8 @@ import java.util.Scanner;
 
 public class codes {
 	static Scanner scn = new Scanner(System.in);
+	
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		String S1 = scn.nextLine();
